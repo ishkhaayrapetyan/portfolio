@@ -30,7 +30,7 @@ const Home =()=>{
                  />
                 </h1>
                 <h2>Frontend Developer / Philosopher{" :)"}</h2>
-                <Link to="/contact" className="flat-button" >CONTACT ME</Link>
+                <Link to="/portfolio/contact" className="flat-button" >CONTACT ME</Link>
             </div>
             <div className='prince-bckg' ></div>
         </div>
